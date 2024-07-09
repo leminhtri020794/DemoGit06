@@ -1,3 +1,7 @@
 Hello Git
 may a sua code theo chuc nang
-may A lại thêm nội dung
+<<<<<<< HEAD
+may A lại thêm nội dung+ them nua
+=======
+may b sua code
+>>>>>>> a33c802fc6946dde401041745b3b602797d36720
